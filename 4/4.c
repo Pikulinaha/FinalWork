@@ -3,15 +3,15 @@
 #include <locale.h>
 
 // Часть а: обработка массива
-void process_array(int A[20], int k1, int k2) {
+void process_array(int A[20], int k11, int k22) {
     // Проверка корректности индексов
-    if (k1 < 0 || k1 >= 20 || k2 < 0 || k2 >= 20) {
+    if (k11 < 0 || k11 >= 20 || k22 < 0 || k22 >= 20) {
         printf("Ошибка: неверные индексы k1 или k2\n");
         return;
     }
 
-    int value_k1 = A[k1];
-    int value_k2 = A[k2];
+    int value_k1 = A[k11];
+    int value_k2 = A[k22];
 
     for (int i = 0; i < 20; i++) {
         if (A[i] > 0) {

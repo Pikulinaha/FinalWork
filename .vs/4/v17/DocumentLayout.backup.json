@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Msi\\Desktop\\\u041B\u0430\u0431\u044B \u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\4\\",
+  "WorkspaceRootPath": "C:\\IT_in_PA\\lb83\\FinalWork\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|C:\\Users\\Msi\\Desktop\\\u041B\u0430\u0431\u044B \u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\4\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|C:\\IT_in_PA\\lb83\\FinalWork\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|solutionrelative:4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "4.c",
-              "DocumentMoniker": "C:\\Users\\Msi\\Desktop\\\u041B\u0430\u0431\u044B \u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\4\\4\\4.c",
+              "DocumentMoniker": "C:\\IT_in_PA\\lb83\\FinalWork\\4\\4.c",
               "RelativeDocumentMoniker": "4\\4.c",
-              "ToolTip": "C:\\Users\\Msi\\Desktop\\\u041B\u0430\u0431\u044B \u0418\u043D\u0441\u0442\u0438\u0442\u0443\u0442\\4\\4\\4.c",
+              "ToolTip": "C:\\IT_in_PA\\lb83\\FinalWork\\4\\4.c",
               "RelativeToolTip": "4\\4.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-03T18:30:59.773Z",
               "EditorCaption": ""
