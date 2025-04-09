@@ -23,6 +23,16 @@ void process_array(int A[20], int k11, int k22) {
     }
 }
 
+void getEven(int* array)
+{
+    for (int i = 0; i < sizeof(array); i++)
+    {
+        if (array[i] % 2 != 0) continue;
+        printf("%d ", array[i]);
+    }
+    printf("\n");
+}
+
 // Часть б: поиск столбца с минимальной суммой
 int find_min_sum_column(int N[6][5]) {
     int min_sum = INT_MAX;
@@ -49,6 +59,11 @@ int main() {
     int A[20] = { 5, -3, 10, 0, 7, -2, 15, -8, 4, -1,
                  3, -6, 9, -4, 12, -7, 6, -5, 8, -9 };
     int k1 = 2;  // индекс элемента для положительных чисел
+    if (k1 < 0)
+    {
+        printf("Число k1 должно быть положительным.");  
+        k1 = 2;   //Теперь если переменная будет отрицательной, она автоматически станет положительной и будет равна 2
+    }
     int k2 = 5;   // индекс элемента для остальных чисел
 
     printf("Исходный массив A:\n");
@@ -59,6 +74,9 @@ int main() {
 
     process_array(A, k1, k2);
 
+    printf("Все четные элементы:\n ");
+    getEven(&A);
+
     printf("Массив после обработки:\n");
     for (int i = 0; i < 20; i++) {
         printf("%d ", A[i]);
@@ -66,7 +84,7 @@ int main() {
     printf("\n\n");
 
     // Пример для части б
-    int N[6][5] = {
+    int matrix[6][5] = {
         {3, 5, 2, 7, 1},
         {1, 4, 6, 2, 8},
         {5, 2, 9, 4, 3},
@@ -75,7 +93,7 @@ int main() {
         {6, 3, 5, 1, 7}
     };
 
-    int min_col = find_min_sum_column(N);
+    int min_col = find_min_sum_column(matrix); //Изменил название массива с N на matrix
     printf("Столбец с минимальной суммой элементов: %d\n", min_col + 1);  // +1 для удобства (нумерация с 1)
 
     return 0;

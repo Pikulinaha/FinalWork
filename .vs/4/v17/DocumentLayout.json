@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\IT_in_PA\\lb83\\FinalWork\\",
+  "WorkspaceRootPath": "C:\\full\\FinalWork\\rep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|C:\\IT_in_PA\\lb83\\FinalWork\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|C:\\full\\FinalWork\\rep\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|solutionrelative:4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,17 +22,21 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "4.c",
-              "DocumentMoniker": "C:\\IT_in_PA\\lb83\\FinalWork\\4\\4.c",
+              "DocumentMoniker": "C:\\full\\FinalWork\\rep\\4\\4.c",
               "RelativeDocumentMoniker": "4\\4.c",
-              "ToolTip": "C:\\IT_in_PA\\lb83\\FinalWork\\4\\4.c",
+              "ToolTip": "C:\\full\\FinalWork\\rep\\4\\4.c",
               "RelativeToolTip": "4\\4.c",
+<<<<<<< HEAD
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCAAAAARAAAAAAAAAA==",
+>>>>>>> 17df3320edb5e85922e9f6edf4c396afbfe76023
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-03T18:30:59.773Z",
               "EditorCaption": ""

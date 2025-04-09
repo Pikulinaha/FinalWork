@@ -1,3 +1,5 @@
 ﻿  4.c
-C:\Users\Msi\Desktop\Лабы Институт\4\4\4.c(47,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
-  4.vcxproj -> C:\Users\Msi\Desktop\Лабы Институт\4\x64\Debug\4.exe
+C:\full\FinalWork\rep\4\4.c(57,5): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+C:\full\FinalWork\rep\4\4.c(78,13): warning C4047: функция: "int *" отличается по уровням косвенного обращения от "int (*)[20]"
+C:\full\FinalWork\rep\4\4.c(78,13): warning C4024: getEven: различные типы для формального и фактического параметров 1
+  4.vcxproj -> C:\full\FinalWork\rep\x64\Debug\4.exe
