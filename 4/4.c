@@ -23,6 +23,16 @@ void process_array(int A[20], int k1, int k2) {
     }
 }
 
+void getEven(int* array)
+{
+    for (int i = 0; i < sizeof(array); i++)
+    {
+        if (array[i] % 2 != 0) continue;
+        printf("%d ", array[i]);
+    }
+    printf("\n");
+}
+
 // Часть б: поиск столбца с минимальной суммой
 int find_min_sum_column(int N[6][5]) {
     int min_sum = INT_MAX;
@@ -63,6 +73,9 @@ int main() {
     printf("\n");
 
     process_array(A, k1, k2);
+
+    printf("Все четные элементы:\n ");
+    getEven(&A);
 
     printf("Массив после обработки:\n");
     for (int i = 0; i < 20; i++) {

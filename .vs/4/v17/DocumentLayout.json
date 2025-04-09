@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\full\\FinalWork\\",
+  "WorkspaceRootPath": "C:\\full\\FinalWork\\rep\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|C:\\full\\FinalWork\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|C:\\full\\FinalWork\\rep\\4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D1411169-E6D1-48FB-8FB1-183DC9AADBCB}|4\\4.vcxproj|solutionrelative:4\\4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "4.c",
-              "DocumentMoniker": "C:\\full\\FinalWork\\4\\4.c",
+              "DocumentMoniker": "C:\\full\\FinalWork\\rep\\4\\4.c",
               "RelativeDocumentMoniker": "4\\4.c",
-              "ToolTip": "C:\\full\\FinalWork\\4\\4.c",
+              "ToolTip": "C:\\full\\FinalWork\\rep\\4\\4.c",
               "RelativeToolTip": "4\\4.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAB2AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwCAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-03T18:30:59.773Z",
               "EditorCaption": ""
